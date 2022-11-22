@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @LSSanches
-- 👀 I’m interested in learning coding.
-- 🌱 I’m currently studying phyton without previous background.
+- 👋 Hi, I’m Laura.
+- 🎓 Self-taught Front-End Web Developer, former Logistics Specialist 
+- 👀 Still enthusiastically learning programming languages, frameworks, principles, etc.
+- 🌱 Deep diving into the front end development world.
+- 📫 You can reach me @ www.linkedin.com/in/laurassanches
 
-
-<!---
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-LSSanches/LSSanches is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Happy coding!
